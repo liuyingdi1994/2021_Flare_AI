@@ -5,3 +5,4 @@
    + numpy: 1.14.3
    + pandas: 0.23.0
    + matplotlib: 2.2.2
+   + sklearn: 0.19.1
