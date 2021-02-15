@@ -6,3 +6,5 @@
    + pandas: 0.23.0
    + matplotlib: 2.2.2
    + sklearn: 0.19.1
+   + tensorflow: 2.1.0
+   + keras: 2.3.1
